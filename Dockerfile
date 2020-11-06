@@ -1,5 +1,5 @@
 # using this awesome prebuild image:
-FROM 'mrraharjo11/php-7.1-nginx:cicd'
+FROM 'mrraharjo11/cicd_laravel'
 MAINTAINER Muhammad Restu Raharjo <raharjorestu.rr@gmail.com>
 
 #install prestissimo for faster deps instalation
